@@ -1,0 +1,29 @@
+{
+  "done": {
+    "condition": "any",
+    "variables": {
+      "link_health": {
+        "op": "equal",
+        "reference" : 0
+      },
+      "boss_health": {
+        "op": "equal",
+        "reference" : 0
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "boss_health": {
+        "reward": 1.0
+      },
+      "link_health": {
+        "penalty": 1.0
+      }
+    }
+  },
+  "actions": [
+    [[], ["UP"], ["DOWN"]],
+    [[], ["LEFT"], ["RIGHT"]]
+  ]
+}

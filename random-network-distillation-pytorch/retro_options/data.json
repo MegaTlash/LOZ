@@ -1,0 +1,156 @@
+{
+  "info": {
+    "CE_health": {
+      "address": 1156,
+      "type": "<u4"
+    },
+    "Has_Bow": {
+      "address": 1626,
+      "type": "<u1"
+    },
+    "Heart containers": {
+      "address": 1647,
+      "type": "<u1"
+    },
+    "Map location": {
+      "address": 235,
+      "type": "<u1"
+    },
+    "Number_of_keys": {
+      "address": 1646,
+      "type": "<u1"
+    },
+    "Number_of_rupees": {
+      "address": 1645,
+      "type": "<u1"
+    },
+    "Partial heart": {
+      "address": 1648,
+      "type": "<u1"
+    },
+    "Pulse_1": {
+      "address": 1541,
+      "type": "<u1"
+    },
+    "Pulse_2": {
+      "address": 1543,
+      "type": "<u1"
+    },
+    "bomb_count": {
+      "address": 1624,
+      "type": "<u1"
+    },
+    "boss_health": {
+      "address": 1156,
+      "type": "<u4"
+    },
+    "clock": {
+      "address": 1644,
+      "type": "<u1"
+    },
+    "enemy_eight_x": {
+      "address": 120,
+      "type": "<u1"
+    },
+    "enemy_eight_y": {
+      "address": 140,
+      "type": "<u1"
+    },
+    "enemy_five_x": {
+      "address": 117,
+      "type": "<u1"
+    },
+    "enemy_five_y": {
+      "address": 137,
+      "type": "<u1"
+    },
+    "enemy_four_x": {
+      "address": 116,
+      "type": "<u1"
+    },
+    "enemy_four_y": {
+      "address": 136,
+      "type": "<u1"
+    },
+    "enemy_one_x": {
+      "address": 113,
+      "type": "<u1"
+    },
+    "enemy_one_y": {
+      "address": 133,
+      "type": "<u1"
+    },
+    "enemy_seven_x": {
+      "address": 119,
+      "type": "<u1"
+    },
+    "enemy_seven_y": {
+      "address": 139,
+      "type": "<u1"
+    },
+    "enemy_six_x": {
+      "address": 118,
+      "type": "<u1"
+    },
+    "enemy_six_y": {
+      "address": 138,
+      "type": "<u1"
+    },
+    "enemy_three_x": {
+      "address": 115,
+      "type": "<u1"
+    },
+    "enemy_three_y": {
+      "address": 135,
+      "type": "<u1"
+    },
+    "enemy_two_x": {
+      "address": 114,
+      "type": "<u1"
+    },
+    "enemy_two_y": {
+      "address": 134,
+      "type": "<u1"
+    },
+    "key_pulse": {
+      "address": 1543,
+      "type": "<u1"
+    },
+    "killed_enemy_count": {
+      "address": 1575,
+      "type": "<u1"
+    },
+    "link_health": {
+      "address": 1648,
+      "type": "<u4"
+    },
+    "link_x": {
+      "address": 112,
+      "type": "<u1"
+    },
+    "link_y": {
+      "address": 132,
+      "type": "<u1"
+    },
+    "mobs_with_health_aob": {
+      "address": 1157,
+      "type": ">d6"
+    },
+    "one_shotable_health_aob": {
+      "address": 848,
+      "type": ">d8"
+    },
+    "test": {
+      "address": 847,
+      "type": ">d8"
+    },
+    "test2": {
+      "address": 847,
+      "type": ">d7"
+    },
+    "test3": {
+      "address": 847,
+      "type": ">d11"
+    }
+  }
+}

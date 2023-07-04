@@ -1,0 +1,34 @@
+{
+  "done": {
+    "condition": "all",
+    "variables": {
+      "link_health": {
+        "op": "equal",
+        "reference" : 0
+      },
+      "boss_health": {
+        "op": "equal",
+        "reference" : 0
+      },
+      "Map location": {
+        "op": "equal",
+        "reference" : 100611381
+      }
+    }
+  },
+  "reward": {
+    "variables": {
+      "boss_health": {
+        "reward": 1.0
+      },
+      "link_health": {
+        "penalty": 1.0
+      }
+    }
+  },
+  "actions": [
+    [[], ["UP"], ["DOWN"]],
+    [[], ["LEFT"], ["RIGHT"]],
+    [[], ["A"]]
+  ]
+}
